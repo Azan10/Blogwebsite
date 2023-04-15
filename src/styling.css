@@ -1,0 +1,312 @@
+.container
+{
+  max-width:100%;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:rgb(0, 0, 0); /* Add a background color */
+  height: 2.9em;
+  position:fixed;
+  width:79em;
+  top:0.0em;
+  z-index:9999;
+ 
+}
+
+li {
+  display: inline-block; /* Use display: inline-block instead of float: left */
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  color:orange;
+  position:relative;
+  right:-32em;
+  z-index:9999;
+
+
+}
+.mainpage-navigation
+  {
+    z-index:9999;
+    background-color:green;
+    position:absolute;
+    
+  }
+
+
+
+  
+
+
+
+body{
+  background-color: black;
+  max-width:100%;
+  
+}
+
+
+
+.myname
+{
+  color:white;
+  position:relative;
+  font-style: italic;
+  left:16.0em;
+  top:2em;
+}
+.course
+{
+  color:rgb(88, 10, 129);
+  position:relative;
+  top:2.0em;
+  left:13em;
+  font-style: italic;
+ 
+  
+}
+ 
+.myinfo
+{
+  color:white;
+  width:28em;
+  position:relative;
+  left:16em;
+  top:4em;
+}
+
+hr {
+  border: 0.01px solid white;
+  width:56em;
+  position:relative;
+  right:2em;
+  top:5.6em;
+}
+
+.Education
+{
+  color:white;
+  width:30em;
+  height:20em;
+  position:absolute;
+  left:30em;
+  top:37em;
+  float: right;
+
+  right:4em;
+
+}
+
+
+.second-box
+{
+  
+  position:absolute;
+  right:-7.3em;
+  top:2.3em;
+
+}
+
+.third-box
+{
+  position:absolute;
+  bottom:-1.3em;
+ 
+
+}
+.t{
+  color:grey;
+}
+
+.skills
+{
+ color:white;
+  position:absolute;
+ right:20.2em;
+ bottom:-20em;
+ color:purple;
+ text-decoration:underline;
+}
+
+.educationtext
+{
+  position:absolute;
+  top:-2.2em;
+  right:6.5em;
+  color:purple;
+  text-decoration: underline;
+}
+
+
+.first-box
+{
+  position:absolute;
+  top:2.2em;
+}
+
+
+
+.skillsimage
+{
+position:absolute;
+top:67.5em;
+left:10em;
+
+}
+
+
+
+.myimage
+{
+  border-radius: 50%;
+  position:absolute;
+  top:-28em;
+  left:17em;
+ 
+
+
+ 
+}
+
+
+
+
+.hidden{
+  display: none;
+}
+
+
+
+
+.secondhr
+{
+  border: 0.01px solid white;
+  width:56em;
+  position:relative;
+  right:2em;
+  top:90.6em;
+}
+
+.Experience
+{
+  position:absolute;
+  top:-0.1em;
+  right:17em;
+  color:purple;
+  text-decoration: underline;
+ 
+}
+
+.proj
+{
+ background-color: rgba(43, 26, 26, 0.722);
+position:absolute;
+height:40em;
+width:56em;
+top:95em;
+left:8em;
+color:white;
+gap:20px;
+text-align: center;
+border-radius: 50px;
+padding-top:2.2em;
+padding-left:1.1em;
+padding-right:1.2em;
+flex-wrap: wrap;
+}
+
+
+
+
+.Contactme
+{
+  background-color:red;
+
+  
+}
+
+.Contact
+{
+color:white;
+position:fixed;
+right:4.8em;
+bottom:22em;
+padding-left:10.5em;
+top:5em;
+}
+
+.Contactimages
+{
+  display:flex;
+  position:fixed;
+  top:7em;
+  right:4em;
+  padding-top:3em;
+  padding-bottom:1em;
+  
+
+}
+
+.link
+{
+  color:orange;
+}
+
+
+
+.projects
+{
+  display:flex;
+  position:absolute;
+  gap:20px;
+  top:7em;
+  width:54em;
+
+}
+
+.nextline
+{
+
+  position:absolute;
+  top:18em;
+  width:16em;
+  left:-1.8em;
+}
+
+.educationimage
+{
+  position:absolute;
+  height:20em;
+  width:18em;
+  left:-20em;
+  top:-0.2em;
+}
+
+.myeducation
+{
+  margin-left:4.0em;
+  margin-top:-1.0em;
+ 
+  
+}
+
+.barchart
+{
+  background-color:orange;
+  position:absolute;
+  right:18em;
+  top:67em;
+
+}
+
+
+ 
+
+
+
